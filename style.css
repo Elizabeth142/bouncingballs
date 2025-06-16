@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2rem;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding-right: 27px;
+  color: rgb(255, 255, 255);
+  font-style: initial;
+}
